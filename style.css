@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+.name-highlight{
+    color: #ff1b74;
+    font-weight: 700;
+}
+section p{
+    text-align: justify;
+    color: dimgray;
+}
+.header-area{
+    background-image: url("images/header-bg.png");
+    height: 500px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5px;
+    
+}
+.half-width img{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.link-button{
+    background-image: linear-gradient(45deg,#ff1b74, #ff4b92);
+    padding: 10px 30px;
+    font-size: 17px;
+    color: white;
+    border-radius: 7px;
+    text-transform: uppercase;
+}
+.biography-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.latest-work{
+    text-align: center;
+    overflow: hidden;
+}
+.latest-work h2{
+    padding: 50px 30px;
+}
+.one-third{
+    width: 30%;
+    padding: 5px 5px;
+    float: left;
+   
+}
+.one-third img{
+    width: 100%;
+}
+.client-area{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.client-feedback h2{
+    padding: 50px 0;
+}
+.client-feedback{
+    padding-bottom: 80px;
+}
+.highlight{
+    color: dimgrey;
+}
+.feedback{
+    font-size: 22px;
+    font-weight: 700;
+    color: black;
+    padding-top: 50px;
+}
+.contact-us{
+    background-image: linear-gradient(45deg, #f14b8b, #f12372);
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 50px;
+    border-radius: 15px;
+}
+footer{
+    text-align: center;
+    font-size: 13px;
+}
