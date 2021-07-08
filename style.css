@@ -45,6 +45,8 @@ a{
     overflow: hidden;
 }
 .latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
     text-align: center;
     overflow: hidden;
 }
